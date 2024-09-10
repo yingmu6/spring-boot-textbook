@@ -26,7 +26,7 @@ public class HelloController {
 
     @GetMapping("helloV3")
     public String helloV3() {
-
+        return "";
     }
 }
 
